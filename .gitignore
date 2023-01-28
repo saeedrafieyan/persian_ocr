@@ -1,0 +1,9 @@
+captcha/persian_digits
+captcha/pics
+.ipynb_checkpoints
+captcha/kaggle.json
+model_weights.hdf5
+captcha/persian-digits-captcha.zip
+captcha-20230125T080300Z-001.zip
+model_weights_V1_100data.hdf5
+captcha/OurDataset.ipynb
